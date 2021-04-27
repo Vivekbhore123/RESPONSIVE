@@ -1,0 +1,257 @@
+body {
+    font-family: 'poppins';
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .header {
+    width: 100%;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 50%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+  }
+
+  .setposition {
+    position: absolute;
+    padding-top: 160px;
+  }
+
+  .setpos {
+    position: absolute;
+    padding-top: 90px;
+  }
+
+  .set {
+    width: 569px;
+  }
+
+  .checked {
+    color: orange;
+  }
+
+  .col-6.col-md {
+    color: white;
+  }
+
+  .link-secondary {
+    color: white;
+    text-decoration: none;
+  }
+
+  .header {
+    /* The image used */
+    /* Used if the image is unavailable */
+    height: 739px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+  }
+
+  body {
+    font-family: 'poppins';
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .header {
+    width: 100%;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 50%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+  }
+
+  .setposition {
+    position: absolute;
+    padding-top: 160px;
+  }
+
+  .setpos {
+    position: absolute;
+    padding-top: 90px;
+  }
+
+  .set {
+    width: 569px;
+  }
+
+  .checked {
+    color: orange;
+  }
+
+  .col-6.col-md {
+    color: white;
+  }
+
+  .link-secondary {
+    color: white;
+    text-decoration: none;
+  }
+
+  .header {
+    /* The image used */
+    /* Used if the image is unavailable */
+    height: 500px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+  }
+
+
+
+
+
+
+/* header btn */
+#headerbtn{
+    background: white;
+              color: black;
+              border-radius: 40px;
+              font-size: 14px;
+              padding: 9px;
+}
+#headersec{
+    margin-right: 70px;
+          margin-left: 70px;
+}
+.newupdatetext{
+    font-weight: 700; 
+}
+.newcard{
+    box-shadow: 2px 7px 34px #00000033;
+}
+.readmore{
+    color: black; text-decoration: none;
+}
+
+#outercard{
+    width: 18rem;    box-shadow: 1px 1px 14px #00000036;
+}
+#cardtitle{
+    font-size: 14px;
+    font-weight: 700;
+}
+#cardpara{
+    font-size: 14px;
+}
+#cardreadmore{
+    color: black; text-decoration: none;
+}
+#eventheading{
+    color: white;
+              font-size: 22px;
+              font-weight: 800;
+}
+#eventpara{
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+}
+#eventbtn{
+    color: black;
+              background: white;
+              border-radius: 30px;
+}
+
+#eventcardimage{
+    padding: 14px;
+
+}
+
+#eventtitle{
+    display: flex;padding-left: 14px;
+
+}
+#eventname{
+    
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 14px;
+
+}
+#aboutbtn{
+    border-radius: 35px;
+    padding-right: 24px;
+    padding-left: 24px;
+}
+#testimonialbackcolor{
+    background: antiquewhite;
+    padding: 50px;
+    border-radius: 81px;
+}
+#singletestimonial{
+    width: 88%;box-shadow: 1px 1px 19px #00000030;
+
+}
+#browsebtn{
+    color: black;
+            background: white;
+            border-radius: 35px;
+            padding-right: 27px;
+            padding-left: 27px;
+}
+#noofstudent{
+    color: white;text-align: left;font-size: 36px;
+            font-weight: 900;
+}
+#noofstudentpara{
+    color: white;text-align: left;
+}
+#icon1image{
+   background-image: url(./assets/images/images/icon1.png); height: 250px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.points{
+    background-image: url(./assets/images/images/pointsback.png);
+}
+#icontitle{
+    padding-top: 120px;
+    font-weight: 900;
+    color: white;
+
+}
+#newupdatepara{
+   
+          width: 66%;
+          margin-top: -20px;
+      
+}
+#adacard{
+    width: 18rem
+
+}
+#adatext{
+ 
+    font-size: 19px;
+    font-weight: 800;
+
+}
+#adaimage{
+    max-width: 23%;    margin-left: 16px;
+}
+#pointrow{
+    
+        display: flex;
+        text-align: center;
+        padding-left: 50px;
+        padding-right: 50px;
+
+    
+}
